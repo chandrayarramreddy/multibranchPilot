@@ -37,6 +37,6 @@ node {
       }
       unstash 'PilotProject-0'
    }
-   build 'hello'
+ //  build 'hello'
    
 }
